@@ -1,8 +1,8 @@
-# myportfolio
+# Sewa's Analyst Portfolio
 # Data Analyst | BI Specialist
 ### Education
-Computer Engineering BSc.
-Data Analytics Diploma
-Cyber Security Analytics Diploma
+- Computer Engineering BSc.
+- Data Analytics Diploma
+- Cyber Security Analytics Diploma
 
 ## Projects
